@@ -1,0 +1,5 @@
+// MongoDB Pass
+sAGbrsQ98pdD41qi
+
+// Allow Script
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted

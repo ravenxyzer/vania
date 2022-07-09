@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "canvas": "^2.9.1",
+    "discord.js": "^13.6.0",
+    "discordjs-activity": "^1.4.2",
+    "dotenv": "^16.0.0",
+    "glob": "^7.2.0",
+    "mongoose": "^6.3.0"
+  },
+  "name": "vania",
+  "version": "1.0.1",
+  "description": "Discord Bot",
+  "main": "./Structures/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Structures/index.js",
+    "ready": "nodemon Structures/index.js"
+  },
+  "author": "Xyzer",
+  "license": "ISC"
+}
